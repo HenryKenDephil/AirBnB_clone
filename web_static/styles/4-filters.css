@@ -1,7 +1,7 @@
 .filters{
     box-sizing: border-box;
     color: white;
-    height: 50px;
+    height: 70px;
     width: 100%;
     border: 1px#dddddd;
     border-radius: 4px;
@@ -17,7 +17,7 @@ button{
     background-color: #ff5a5f;
     color: #ffffff;
     border: none;
-    height: 30px;
+    height: 48px;
     border-radius: 4px;
     width: 20%;
     margin-right: 30px;

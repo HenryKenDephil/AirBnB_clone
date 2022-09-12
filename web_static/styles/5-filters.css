@@ -1,0 +1,21 @@
+.locations{
+    height: 100%;
+    width: 25%;
+    border-right: 1px#dddddd;
+    border-style: solid;
+    margin-right: 100px;
+    margin-left: 5px;
+}
+h3{
+    font-weight: 600;
+    color: black;
+}
+h4{
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+}
+.amenities{
+    margin-right: 100px;
+    margin-top: 0%;
+}
