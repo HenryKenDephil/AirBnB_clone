@@ -5,7 +5,9 @@ header {
   border-bottom: 1px#cccc;
   border-bottom-style: solid;
 }
-img{
+.logo{
+    background: url("/images/logo.png") no-repeat;
+    height: 100%;
     text-align: left;
     margin-left: 20px;
 }
